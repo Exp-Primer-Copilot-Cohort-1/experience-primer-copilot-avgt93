@@ -1,0 +1,3 @@
+function skillMember() {
+	return "skillMember";
+}
